@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Insure-landing-page-master--reactProject/static/css/main.c2644541.css",
+    "main.js": "/Insure-landing-page-master--reactProject/static/js/main.17207125.js",
+    "static/media/bg-pattern-mobile-nav.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-mobile-nav.b2fceba3d85314c10486.svg",
+    "static/media/bg-pattern-how-we-work-desktop.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-how-we-work-desktop.eb268c33d9921cd960db.svg",
+    "static/media/bg-pattern-footer-desktop.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-footer-desktop.700c39ea607592bfacaf.svg",
+    "static/media/bg-pattern-footer-mobile.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-footer-mobile.9f048cf0d8710a041f70.svg",
+    "static/media/bg-pattern-how-we-work-mobile.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-how-we-work-mobile.96cd9d0635dc0b442022.svg",
+    "static/media/bg-pattern-intro-left-mobile.svg": "/Insure-landing-page-master--reactProject/static/media/bg-pattern-intro-left-mobile.111709ef92e6f76465a9.svg",
+    "index.html": "/Insure-landing-page-master--reactProject/index.html",
+    "main.c2644541.css.map": "/Insure-landing-page-master--reactProject/static/css/main.c2644541.css.map",
+    "main.17207125.js.map": "/Insure-landing-page-master--reactProject/static/js/main.17207125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2644541.css",
+    "static/js/main.17207125.js"
+  ]
+}
